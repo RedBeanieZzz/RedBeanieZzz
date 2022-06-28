@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedBeanieZzz
-- 👀 I’m interested in back end, but also a little front-end
+- 👀 I’m interested in back end.
 - 🌱 I’m currently learning python, javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
