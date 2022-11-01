@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @RedBeanieZzz
-- 👀 I’m interested in back end.
-- 🌱 I’m currently learning python, javascript.
-- 💞️ I’m looking to collaborate on small, big, old or recently new projects
-- 📫 sanchezcontacto1998@gmail.com
-
-<!---
-RedBeanieZzz/RedBeanieZzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Full stack web developer based in Argentina.
+- 🌱 I manage diverse languages like Python, Javascript. Also using VueJs, Django, Postgresql. And planing to learn NodeJs, React, and flask.
+- 💞️ I’m looking to collaborate on any project that give me knowledge and a good work enviroment.
+- 📫 contact me here : sanchezcontacto1998@gmail.com
