@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedBeanieZzz
 - 👀 I’m a Full stack web developer based in Argentina.
-- 🌱 I manage diverse languages like Python, Javascript. Also using VueJs, Django, Postgresql. And planing to learn NodeJs, React, and flask.
+- 🌱 I manage diverse languages like Python, Javascript. Also using Frameworks like Django, NodeJs, Express, React, Vue, and relational Databases.
 - 💞️ I’m looking to collaborate on any project that give me knowledge and a good work enviroment.
 - 📫 contact me here : sanchezcontacto1998@gmail.com
