@@ -1,5 +1,6 @@
-- 👋 Hi, Agustin Garcia here! 
-- 👀 I’m a Full stack web developer based in Argentina.
-- 🌱 I manage diverse languages like Python, Javascript. Also using Frameworks like Django, NodeJs, Express, React, Vue, and relational Databases.
-- 💞️ I’m looking to collaborate on any project that give me knowledge and a good work enviroment.
-- 📫 contact me here : sanchezcontacto1998@gmail.com
+ 👋 Hi, Agustin Garcia here! A Software Developer based in 🇦🇷 💙 🤍 💙.
+ 🌱 My languages Python and Javascript 🎲 and some Frameworks like Django, VueJs and ReactJs.
+ 👨‍💻 Cybersecurity lover.
+ 💞️ I’m looking to collaborate on any project that give me knowledge and a good work enviroment.
+ 📫 contact me here : sanchezcontacto1998@gmail.com
+ 🛹 AM Skater 
